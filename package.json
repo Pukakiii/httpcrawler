@@ -5,9 +5,9 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "crawl.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node crawl.js",
+    "start": "node main.js",
     "test": "jest"
   },
   "devDependencies": {
